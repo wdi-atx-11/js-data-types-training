@@ -1,3 +1,6 @@
+
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+
 # Training: JavaScript Data Types
 
 *Use the JavaScript console in your browser to solve the challenges. Press `command + option + J` to open the console in Chrome. Feel free to also record your responses in a file, but make sure you test them in the console!*
@@ -43,7 +46,6 @@
 
 3. Using array methods, add your name to the end of the `friends` array, and add another name to beginning.
 
-
   <details>
     <summary>hint</summary>
     Look up array methods `push` and `unshift`.
@@ -57,7 +59,7 @@
     ```
   </details>
 
-4. We have two lists of friends below. Use array methods to combine them into one alphabetically-sorted list.
+4. Stretch: We have two lists of friends below. Use array methods to combine them into one alphabetically-sorted list.
 
   ```js
   var myFriends = [
