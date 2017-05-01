@@ -16,8 +16,9 @@
 1. An array called `foods` holds the names of my top 20 favorite foods, starting with the best food. How can you find my fifth favorite food?
 
 	  <details>
-	    <summary>answer</summary>
-	    ```js
+	    <summary>answer</summary>  
+	    
+	    ``` javascript
 	    foods[4]
 	    ```
 	  </details>
