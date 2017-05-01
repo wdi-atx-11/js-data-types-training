@@ -17,10 +17,7 @@
 
 	  <details>
 	    <summary>answer</summary>  
-	    
-	    ``` javascript
-	    foods[4]
-	    ```
+	    	` foods[4] `
 	  </details>
 
 
